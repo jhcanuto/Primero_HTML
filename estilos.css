@@ -1,0 +1,43 @@
+
+
+h1{
+	font-size: 28px;
+	color: black;
+	background-color: #808080;
+	font-family: verdana;
+	text-align: center;
+}
+
+h2{
+	font-size: 23px;
+	text-align: center;
+}
+
+p{
+	font-size: arial;
+	background-color: black;
+	color: white;
+	text-align: justify;
+}
+
+span {
+	text-decoration: underline;
+	font-style: italic;
+}
+
+h4 {
+	font-size: 18px;
+	text-align: center;
+}
+
+div {
+	
+	margin: 100px;
+}
+
+
+
+
+
+
+
